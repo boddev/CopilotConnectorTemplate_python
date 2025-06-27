@@ -3,7 +3,7 @@ uvicorn[standard]==0.24.0
 azure-identity==1.15.0
 msgraph-sdk==1.0.0
 pydantic==2.5.0
-python-multipart==0.0.6
+python-multipart==0.0.18
 aiofiles==23.2.0
 asyncio-mqtt==0.16.1
 python-dotenv==1.0.0
